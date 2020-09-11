@@ -89,13 +89,13 @@ namespace HelloWorld
 
             string[] names = new string[5];
             Console.WriteLine("Write 5 names");
-            for (int i=0; i < 5; i++)
+            for (int i=0; i < names.Length; i++)
             {
                 Console.WriteLine("Write name " + (i+1));
                 names[i] = Console.ReadLine();
             }
-
-            for (int i = 4; i > -1; i--)
+            Array.Reverse(names);
+            for (int i = 0; i > names.Length; i++)
             {
                 Console.WriteLine("Name " + (i+1) + " is " + names[i]);
             }
