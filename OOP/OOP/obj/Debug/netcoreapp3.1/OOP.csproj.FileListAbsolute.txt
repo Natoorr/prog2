@@ -1,0 +1,13 @@
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Elev\Documents\GitHub\prog2\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache

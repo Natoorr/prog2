@@ -1,0 +1,13 @@
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\obj\Debug\netcoreapp3.1\UppgiftOOP.csprojAssemblyReference.cache
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\obj\Debug\netcoreapp3.1\UppgiftOOP.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\obj\Debug\netcoreapp3.1\UppgiftOOP.AssemblyInfo.cs
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\obj\Debug\netcoreapp3.1\UppgiftOOP.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\bin\Debug\netcoreapp3.1\UppgiftOOP.exe
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\bin\Debug\netcoreapp3.1\UppgiftOOP.deps.json
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\bin\Debug\netcoreapp3.1\UppgiftOOP.runtimeconfig.json
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\bin\Debug\netcoreapp3.1\UppgiftOOP.runtimeconfig.dev.json
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\bin\Debug\netcoreapp3.1\UppgiftOOP.dll
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\bin\Debug\netcoreapp3.1\UppgiftOOP.pdb
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\obj\Debug\netcoreapp3.1\UppgiftOOP.dll
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\obj\Debug\netcoreapp3.1\UppgiftOOP.pdb
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftOOP\UppgiftOOP\obj\Debug\netcoreapp3.1\UppgiftOOP.genruntimeconfig.cache

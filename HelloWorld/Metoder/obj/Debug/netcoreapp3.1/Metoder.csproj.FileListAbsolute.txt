@@ -1,0 +1,13 @@
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\bin\Debug\netcoreapp3.1\Metoder.exe
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\bin\Debug\netcoreapp3.1\Metoder.deps.json
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.json
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.dev.json
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\bin\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\bin\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfo.cs
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\obj\Debug\netcoreapp3.1\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\Elev\Documents\GitHub\prog2\HelloWorld\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
