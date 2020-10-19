@@ -1,0 +1,13 @@
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\bin\Debug\netcoreapp3.1\UppgiftPolymorfi.exe
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\bin\Debug\netcoreapp3.1\UppgiftPolymorfi.deps.json
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\bin\Debug\netcoreapp3.1\UppgiftPolymorfi.runtimeconfig.json
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\bin\Debug\netcoreapp3.1\UppgiftPolymorfi.runtimeconfig.dev.json
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\bin\Debug\netcoreapp3.1\UppgiftPolymorfi.dll
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\bin\Debug\netcoreapp3.1\UppgiftPolymorfi.pdb
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\obj\Debug\netcoreapp3.1\UppgiftPolymorfi.csprojAssemblyReference.cache
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\obj\Debug\netcoreapp3.1\UppgiftPolymorfi.AssemblyInfoInputs.cache
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\obj\Debug\netcoreapp3.1\UppgiftPolymorfi.AssemblyInfo.cs
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\obj\Debug\netcoreapp3.1\UppgiftPolymorfi.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\obj\Debug\netcoreapp3.1\UppgiftPolymorfi.dll
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\obj\Debug\netcoreapp3.1\UppgiftPolymorfi.pdb
+C:\Users\Elev\Documents\GitHub\prog2\UppgiftPolymorfi\UppgiftPolymorfi\obj\Debug\netcoreapp3.1\UppgiftPolymorfi.genruntimeconfig.cache

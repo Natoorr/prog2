@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography;
 using System.Threading;
 
 namespace UppgiftOOP
@@ -7,70 +8,72 @@ namespace UppgiftOOP
     {
         static void Main(string[] args)
         {
-            
-            string name;
-            int age;
+
+            string playerName;
             var buying = 0;
 
-            Console.WriteLine("Write your name");
-            name = Console.ReadLine();
-            Console.WriteLine("Type your age"); 
-            age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Type your name");
+            playerName = Console.ReadLine();
+            var you = new Customer(playerName);
+
+            Console.WriteLine("Welcome to our store" + you.Name + "! Would you like to buy something?");
+
+            bool isACustomer = false;
             
-            Customer you = new Customer(name, age);
-            Product apple = new Product("Apple", 5);
-            Product orange = new Product("Orange", 7);
-            Product banana = new Product("Banana", 10);
-
-            Console.WriteLine("Welcome to our store " + you.Name + "! What would you like to buy?\n" + apple.Name + ", " + apple.Cost + " dollars\n" + orange.Name + ", " + orange.Cost + " dollars\n" + banana.Name + ", " + banana.Cost + " dollars");
-
-            bool loopPurchase = true;
-            while (loopPurchase) { 
-                Console.WriteLine("(How many " + apple.Name + "s would you like to buy?)");
-                int apples = Convert.ToInt32(Console.ReadLine());
             
-                Console.WriteLine("(How many " + orange.Name + "s would you like to buy?)");
-                int oranges = Convert.ToInt32(Console.ReadLine());
+            Random rand = new Random();
+            
+            while (true) { 
+            var randomNumber = rand.Next(1, 50);
 
-                Console.WriteLine("(How many " + banana.Name + "s would you like to buy?)");
-                int bananas = Convert.ToInt32(Console.ReadLine());
+                if (Console.ReadLine().ToLower() == "yes") {
 
-                buying = apples * apple.Cost + oranges * orange.Cost + bananas * banana.Cost;
-                you.CustomerBasket(apples, oranges, bananas);
-                
-                Console.WriteLine("(You are currently buying " + you.CallBasket() + " costing you " + buying + " dollars. Would you like to change anything?)");
+                    Console.WriteLine("What would you like to buy?");
+                    string productName = Console.ReadLine();
 
-                bool loopAnswer = true;
-                while (loopAnswer)
-                {
-                    
-                    string choice = Console.ReadLine();
-                    
-                    if (choice.ToLower() == "yes") 
-                    { 
+                    Console.WriteLine("How many would you like to buy? They cost " + randomNumber + " dollars each.");
+                    int quantity =  Convert.ToInt32(Console.ReadLine());
+                    var product = new Product(productName, randomNumber, quantity);
+                    isACustomer = true;
+
+                    Console.WriteLine("Would you like to buy anything else?");
+                    if (Console.ReadLine().ToLower() == "yes")
+                    {
+
+                    } else
+                    {
                         
-                        loopAnswer = false; 
-                    
-                    } else if (choice.ToLower() == "no") {
-
-                        loopPurchase = false;
-                        loopAnswer = false;
-                    
-                    } else { 
-                        
-                        Console.WriteLine("Please write 'Yes' or 'No' "); 
-                    
-                    } 
+                        break;
+                    }
                 }
-
-
             }
-            
-            if (buying > 100 && you.Age < 10) {
-                Console.WriteLine("You're too young to have " + buying + " dollars at hand! Get tha fuck outta here!");
+
+            Console.WriteLine("Do you want to view your cart?");
+           
+            if (Console.ReadLine().ToLower() == "yes") {
                 
-            } 
-            else 
+                foreach (var item in you._cart) {
+                    
+                    Console.WriteLine(item._name + ": Cost: " + item._totalCost);
+                    
+                    buying += item._totalCost;
+                
+                } 
+            
+            } else {
+                
+                foreach (var item in you._cart)
+                {
+                    buying += item._totalCost;
+                }
+                
+                Console.WriteLine("Proceeding to checkout");
+            
+            }
+
+
+
+            if (isACustomer)
             {
                 Console.WriteLine("That will be " + buying + " dollars!");
             }

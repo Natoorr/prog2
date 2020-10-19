@@ -7,36 +7,21 @@ namespace UppgiftOOP
 {
     class Product
     {
-        private string _name; 
-        private int _cost; 
+        public string _name;
+        private int _cost;
+        private int _quantity;
+        public int _totalCost;
 
-        public string Name
-        {
-            get { return _name; }
-            set { string _name = value; }
-        }
 
-        public int Cost
-        {
-            get { return _cost; }
-            set { int _cost = value; }
-        }
 
-        public Product(string name, int cost)
+
+        public Product(string name, int cost, int quantity)
         {
             _name = name;
             _cost = cost;
+            _quantity = quantity;
+            
+            _totalCost = cost * quantity;
         }
-
-        public void SetName(string name)
-        {
-            _name = name;
-        }
-
-        public void SetCost(int cost)
-        {
-            _cost = cost;
-        }
-
     }
 }
