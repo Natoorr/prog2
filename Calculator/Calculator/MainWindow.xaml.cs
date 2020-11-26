@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPFDemo
+namespace Calculator
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -50,7 +50,9 @@ namespace WPFDemo
 
         private void Delete_Click(object sender, RoutedEventArgs e)
         {
-            CalcField.Text = CalcField.Text.Substring(0, CalcField.Text.Length - 1);
+            if (CalcField.Text.Length > 0) {
+                CalcField.Text = CalcField.Text.Substring(0, CalcField.Text.Length - 1);
+            }
         }
     }
 }
