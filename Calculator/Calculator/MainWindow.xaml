@@ -30,21 +30,21 @@
         <Button Grid.Row="2" Grid.Column="2" FontSize="25" Content="(" Click="SelfButton_Click"/>
         <Button Grid.Row="2" Grid.Column="3" FontSize="25" Content=")" Click="SelfButton_Click"/>
         <Button Grid.Row="2" Grid.Column="4" FontSize="25" Content="÷" Click="DivideButton_Click"/>
-        <Button Grid.Row="3" Grid.Column="1" FontSize="25" Content="1" Click="SelfButton_Click"/>
-        <Button Grid.Row="3" Grid.Column="2" FontSize="25" Content="2" Click="SelfButton_Click"/>
-        <Button Grid.Row="3" Grid.Column="3" FontSize="25" Content="3" Click="SelfButton_Click"/>
+        <Button Grid.Row="3" Grid.Column="1" FontSize="25" Content="1" Click="NumberButton_Click"/>
+        <Button Grid.Row="3" Grid.Column="2" FontSize="25" Content="2" Click="NumberButton_Click"/>
+        <Button Grid.Row="3" Grid.Column="3" FontSize="25" Content="3" Click="NumberButton_Click"/>
         <Button Grid.Row="3" Grid.Column="4" FontSize="25" Content="+" Click="SelfButton_Click"/>
-        <Button Grid.Row="4" Grid.Column="1" FontSize="25" Content="4" Click="SelfButton_Click"/>
-        <Button Grid.Row="4" Grid.Column="2" FontSize="25" Content="5" Click="SelfButton_Click"/>
-        <Button Grid.Row="4" Grid.Column="3" FontSize="25" Content="6" Click="SelfButton_Click"/>
+        <Button Grid.Row="4" Grid.Column="1" FontSize="25" Content="4" Click="NumberButton_Click"/>
+        <Button Grid.Row="4" Grid.Column="2" FontSize="25" Content="5" Click="NumberButton_Click"/>
+        <Button Grid.Row="4" Grid.Column="3" FontSize="25" Content="6" Click="NumberButton_Click"/>
         <Button Grid.Row="4" Grid.Column="4" FontSize="25" Content="x" Click="MultiplicationButton_Click"/>
-        <Button Grid.Row="5" Grid.Column="1" FontSize="25" Content="7" Click="SelfButton_Click"/>
-        <Button Grid.Row="5" Grid.Column="2" FontSize="25" Content="8" Click="SelfButton_Click"/>
-        <Button Grid.Row="5" Grid.Column="3" FontSize="25" Content="9" Click="SelfButton_Click"/>
+        <Button Grid.Row="5" Grid.Column="1" FontSize="25" Content="7" Click="NumberButton_Click"/>
+        <Button Grid.Row="5" Grid.Column="2" FontSize="25" Content="8" Click="NumberButton_Click"/>
+        <Button Grid.Row="5" Grid.Column="3" FontSize="25" Content="9" Click="NumberButton_Click"/>
         <Button Grid.Row="5" Grid.Column="4" FontSize="25" Content="-" Click="SelfButton_Click"/>
         <Button Grid.Row="6" Grid.Column="1" FontSize="25" Content="Del" Click="Delete_Click"/>
         <Button Grid.Row="6" Grid.Column="2" FontSize="25" Content="0" Click="SelfButton_Click"/>
-        <Button Grid.Row="6" Grid.Column="3" FontSize="25" Content="." Click="SelfButton_Click"/>
-        <Button Grid.Row="6" Grid.Column="4" FontSize="25" Content="="/>
+        <Button Grid.Row="6" Grid.Column="3" FontSize="25" Content="Clear" Click="ClearButton_Click"/>
+        <Button Grid.Row="6" Grid.Column="4" FontSize="25" Content="=" Click="Equal_Click"/>
     </Grid>
 </Window>
