@@ -51,6 +51,13 @@ namespace AbstractClasses
                 animal.Eat();
                 animal.Sleep();
             }
+            
+            foreach (var accessoy in accessories)
+            {
+                accessories.Break();
+                accessories.Clean();
+            }
         }
+
     }
 }
