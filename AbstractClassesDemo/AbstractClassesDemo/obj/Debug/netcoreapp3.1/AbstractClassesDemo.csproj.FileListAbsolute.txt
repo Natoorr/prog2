@@ -1,0 +1,13 @@
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\bin\Debug\netcoreapp3.1\AbstractClassesDemo.exe
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\bin\Debug\netcoreapp3.1\AbstractClassesDemo.deps.json
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\bin\Debug\netcoreapp3.1\AbstractClassesDemo.runtimeconfig.json
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\bin\Debug\netcoreapp3.1\AbstractClassesDemo.runtimeconfig.dev.json
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\bin\Debug\netcoreapp3.1\AbstractClassesDemo.dll
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\bin\Debug\netcoreapp3.1\AbstractClassesDemo.pdb
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\obj\Debug\netcoreapp3.1\AbstractClassesDemo.csprojAssemblyReference.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\obj\Debug\netcoreapp3.1\AbstractClassesDemo.AssemblyInfoInputs.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\obj\Debug\netcoreapp3.1\AbstractClassesDemo.AssemblyInfo.cs
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\obj\Debug\netcoreapp3.1\AbstractClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\obj\Debug\netcoreapp3.1\AbstractClassesDemo.dll
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\obj\Debug\netcoreapp3.1\AbstractClassesDemo.pdb
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\AbstractClassesDemo\AbstractClassesDemo\obj\Debug\netcoreapp3.1\AbstractClassesDemo.genruntimeconfig.cache
