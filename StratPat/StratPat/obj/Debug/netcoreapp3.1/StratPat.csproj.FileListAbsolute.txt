@@ -1,0 +1,13 @@
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\bin\Debug\netcoreapp3.1\StratPat.exe
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\bin\Debug\netcoreapp3.1\StratPat.deps.json
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\bin\Debug\netcoreapp3.1\StratPat.runtimeconfig.json
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\bin\Debug\netcoreapp3.1\StratPat.runtimeconfig.dev.json
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\bin\Debug\netcoreapp3.1\StratPat.dll
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\bin\Debug\netcoreapp3.1\StratPat.pdb
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\obj\Debug\netcoreapp3.1\StratPat.csprojAssemblyReference.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\obj\Debug\netcoreapp3.1\StratPat.AssemblyInfoInputs.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\obj\Debug\netcoreapp3.1\StratPat.AssemblyInfo.cs
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\obj\Debug\netcoreapp3.1\StratPat.csproj.CoreCompileInputs.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\obj\Debug\netcoreapp3.1\StratPat.dll
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\obj\Debug\netcoreapp3.1\StratPat.pdb
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\StratPat\StratPat\obj\Debug\netcoreapp3.1\StratPat.genruntimeconfig.cache

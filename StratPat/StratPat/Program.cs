@@ -9,7 +9,7 @@ namespace StrategyPatternDemo
         {
             while (true)
             {
-                Console.WriteLine("What president do you want to make the president again?\n1. Trump\n 2. Obama\n3. JFK\n4. Lincoln");
+                Console.WriteLine("What president do you want to make the president again?\n1. Trump\n2. Obama\n3. JFK\n4. Lincoln");
                 var operation = Console.ReadLine();
                 double numberOne;
                 double numberTwo;
