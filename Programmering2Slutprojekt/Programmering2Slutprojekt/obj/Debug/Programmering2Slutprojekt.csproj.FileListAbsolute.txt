@@ -1,0 +1,15 @@
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\bin\Debug\Programmering2Slutprojekt.exe.config
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\bin\Debug\Programmering2Slutprojekt.exe
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\bin\Debug\Programmering2Slutprojekt.pdb
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt.csprojAssemblyReference.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\MainWindow.g.cs
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\App.g.cs
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt_MarkupCompile.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt_MarkupCompile.lref
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\MainWindow.baml
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt.g.resources
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt.Properties.Resources.resources
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt.csproj.GenerateResource.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt.exe
+C:\Users\Zachris\OneDrive\Dokument\GitHub\prog2\Programmering2Slutprojekt\Programmering2Slutprojekt\obj\Debug\Programmering2Slutprojekt.pdb

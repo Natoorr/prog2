@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Programmering2Slutprojekt"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="500">
-    <Grid>
+        Title="MainWindow" Height="797" Width="775">
+    <Grid x:Name="MyBoard" Loaded="MyBoard_Loaded">
         
     </Grid>
 </Window>
